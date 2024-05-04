@@ -1,7 +1,10 @@
 # Software Testing in Python
 
 This repository collects examples, exercises and model solutions needed to understand 
-the concepts of software testing and code inspection in the software development lifycycle. 
+the concepts of software testing and code inspection in the software development lifecycle. 
+**Disclamer the entire structure of the repository was created by @Egon Teiniker. 
+I Only included solutions to exercises required to be solved**
+
 
 ![Testing in the SDL](introduction/figures/TestingInTheSDLC.png)
 
